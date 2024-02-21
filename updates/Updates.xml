@@ -4,15 +4,15 @@
  <Checksum>true</Checksum>
  <PackageUpdate>
   <Name>SupportApp</Name>
-  <DisplayName>A</DisplayName>
+  <DisplayName>SupportApp</DisplayName>
   <Description>Example component A</Description>
   <Version>0.2.1-1</Version>
   <ReleaseDate>2024-02-21</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="61935796" OS="Any" CompressedSize="18345064"/>
+  <UpdateFile UncompressedSize="61935796" CompressedSize="18345031" OS="Any"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>bec838a8a8e091ba5076e4cf471affae85a3433c</SHA1>
+  <SHA1>9b267d95ab286a4a5b3534748437997b8a2456ca</SHA1>
  </PackageUpdate>
- <SHA1>e6b23db04e0c04af2b87dc2292c0752ef7da6243</SHA1>
- <MetadataName>2024-02-21-2136_meta.7z</MetadataName>
+ <SHA1>458822b51f48ef3a72495ebb58670473ae4af767</SHA1>
+ <MetadataName>2024-02-21-2142_meta.7z</MetadataName>
 </Updates>
