@@ -3,16 +3,16 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>SupportHelper</Name>
+  <Name>com.osirisa.supporthelper</Name>
   <DisplayName>SupportHelper</DisplayName>
   <Description>Example component A</Description>
   <Version>0.2.1-1</Version>
   <ReleaseDate>2024-02-21</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="18345034" UncompressedSize="61935796" OS="Any"/>
+  <UpdateFile UncompressedSize="61935796" OS="Any" CompressedSize="18345061"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>f7fea0655a47dd55bfe23d87793d5b0958746f77</SHA1>
+  <SHA1>3cdb6154920ccf658c1241cbef138de19aec1374</SHA1>
  </PackageUpdate>
- <SHA1>5b6e3310abc7ed65597b974bfadb82490a2f03e6</SHA1>
- <MetadataName>2024-02-21-2144_meta.7z</MetadataName>
+ <SHA1>a1cc7aac6766b08522cabb32a2ed4844a9bd2e8b</SHA1>
+ <MetadataName>2024-02-21-2202_meta.7z</MetadataName>
 </Updates>
