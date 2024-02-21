@@ -3,16 +3,16 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>SupportApp</Name>
-  <DisplayName>SupportApp</DisplayName>
+  <Name>SupportHelper</Name>
+  <DisplayName>SupportHelper</DisplayName>
   <Description>Example component A</Description>
   <Version>0.2.1-1</Version>
   <ReleaseDate>2024-02-21</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="61935796" CompressedSize="18345031" OS="Any"/>
+  <UpdateFile CompressedSize="18345034" UncompressedSize="61935796" OS="Any"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>9b267d95ab286a4a5b3534748437997b8a2456ca</SHA1>
+  <SHA1>f7fea0655a47dd55bfe23d87793d5b0958746f77</SHA1>
  </PackageUpdate>
- <SHA1>458822b51f48ef3a72495ebb58670473ae4af767</SHA1>
- <MetadataName>2024-02-21-2142_meta.7z</MetadataName>
+ <SHA1>5b6e3310abc7ed65597b974bfadb82490a2f03e6</SHA1>
+ <MetadataName>2024-02-21-2144_meta.7z</MetadataName>
 </Updates>
