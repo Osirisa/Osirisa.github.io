@@ -9,10 +9,10 @@
   <Version>0.2.1</Version>
   <ReleaseDate>2024-02-24</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" UncompressedSize="61953716" CompressedSize="18350338"/>
+  <UpdateFile CompressedSize="18350156" OS="Any" UncompressedSize="61953716"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>a68a5e9c517d4f69cc79a9fa808e96fbe936856a</SHA1>
+  <SHA1>330655213ff4b9bfa0315790bf13295f47406f08</SHA1>
  </PackageUpdate>
- <SHA1>c208b5d11ed532257b3b9b4af88a8d4059d9cf4f</SHA1>
- <MetadataName>2024-02-24-0159_meta.7z</MetadataName>
+ <SHA1>e7c0d768375ea49727b15c0794f73efb874c3d91</SHA1>
+ <MetadataName>2024-02-24-0218_meta.7z</MetadataName>
 </Updates>
