@@ -7,12 +7,12 @@
   <DisplayName>SupportHelper</DisplayName>
   <Description>Example component A</Description>
   <Version>0.2.1-1</Version>
-  <ReleaseDate>2024-02-21</ReleaseDate>
+  <ReleaseDate>2024-02-24</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="61935796" OS="Any" CompressedSize="18345061"/>
+  <UpdateFile UncompressedSize="61953716" CompressedSize="18350169" OS="Any"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>3cdb6154920ccf658c1241cbef138de19aec1374</SHA1>
+  <SHA1>1d1a4dc0a765a48cf64849b02ce4961505d3234b</SHA1>
  </PackageUpdate>
- <SHA1>a1cc7aac6766b08522cabb32a2ed4844a9bd2e8b</SHA1>
- <MetadataName>2024-02-21-2202_meta.7z</MetadataName>
+ <SHA1>9d994533efc0209a5d01e05f1826f77d8ab97b69</SHA1>
+ <MetadataName>2024-02-24-0152_meta.7z</MetadataName>
 </Updates>
