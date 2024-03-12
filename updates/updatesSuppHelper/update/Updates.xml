@@ -6,13 +6,13 @@
   <Name>com.osirisa.supporthelper</Name>
   <DisplayName>SupportHelper</DisplayName>
   <Description>Example component A</Description>
-  <Version>0.2.1</Version>
-  <ReleaseDate>2024-02-24</ReleaseDate>
+  <Version>0.2.2</Version>
+  <ReleaseDate>2024-03-12</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="18350156" OS="Any" UncompressedSize="61953716"/>
+  <UpdateFile CompressedSize="20265051" OS="Any" UncompressedSize="69491892"/>
   <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>330655213ff4b9bfa0315790bf13295f47406f08</SHA1>
+  <SHA1>260ac0df55567f64bbcf4e6457ae8a6873a121a1</SHA1>
  </PackageUpdate>
- <SHA1>e7c0d768375ea49727b15c0794f73efb874c3d91</SHA1>
- <MetadataName>2024-02-24-0218_meta.7z</MetadataName>
+ <SHA1>7ca9d5725ec269717f2003bd881d429df6205d49</SHA1>
+ <MetadataName>2024-03-12-2011_meta.7z</MetadataName>
 </Updates>
